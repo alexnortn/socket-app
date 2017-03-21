@@ -1,0 +1,7 @@
+# Gitignore for socket-app
+
+/node_modules
+/meshes
+/connsData
+/connsData2
+
